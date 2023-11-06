@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.sec2{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+header {
+    color: #ffeee0;
+    text-align: left;
+}
+.navbar-brand {
+    font-family: Agbalumo;
+    color: rgb(218, 137, 32);
+}
+
+.side-btn {
+    margin: 2%;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
